@@ -4,6 +4,12 @@ The **Lead Manager App** is a modern web application built with **Next.js**, **T
 
 ---
 
+## ⚡ Screenshots
+
+![Lead Manager Screenshot](./assets/screenshot.png)
+
+---
+
 ## 🎯 Features
 - Add, edit, and delete leads
 - Search leads by name, email, or company
